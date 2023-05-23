@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
-- Portfolio [https://portfolio-4btqb1lg0-antonyjudeshaman.vercel.app/](https://portfolio-4btqb1lg0-antonyjudeshaman.vercel.app/)
+- 👨‍💻 <a href="https://portfolio-4btqb1lg0-antonyjudeshaman.vercel.app/](https://portfolio-4btqb1lg0-antonyjudeshaman.vercel.app/"> View Portfolio</a>
 
 - 📫 How to reach me **starkshaman30@gmail.com**
 
