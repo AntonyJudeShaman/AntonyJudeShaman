@@ -2,8 +2,12 @@
 <h1 align="center">Hi 👋, I'm Antony Jude Shaman</h1>
 <h3 align="center">I am interested in Machine Learning and Full Stack Development</h3>
   
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antonyjudeshaman&label=Profile%20views&color=0e75b6&style=flat" alt="antonyjudeshaman" /> </p>
+  <p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=AntonyJudeShaman&color=blue&style=flat)" />
+  </a>
+</p>
+  
 - 🌱 I’m currently learning **Express.js**
 
 - 👯 I’m looking to collaborate on **full stack projects**
