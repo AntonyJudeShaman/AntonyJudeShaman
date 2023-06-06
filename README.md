@@ -1,6 +1,7 @@
 <div theme=highcontrast>
-<h1 align="center">Hi 👋, I'm Antony Jude Shaman</h1>
+<h2 align="center">Hi 👋, I'm Antony Jude Shaman</h2>
 <h3 align="center">I am interested in Machine Learning and Full Stack Development</h3>
+  
   
   <p align="left">
   <a href="https://github.com/wervlad">
@@ -39,6 +40,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyJudeShaman&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=highcontrast" />
   </a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/>
 </div>
 
 
