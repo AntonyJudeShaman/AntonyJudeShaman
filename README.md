@@ -4,7 +4,7 @@
   
   
   <p align="left">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/AntonyJudeShaman">
     <img src="https://komarev.com/ghpvc/?username=AntonyJudeShaman&color=blue&style=flat)" />
   </a>
 </p>
@@ -36,9 +36,7 @@
   <a href="https://github.com/AntonyJudeShaman">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonyJudeShaman&theme=highcontrast" />
   </a></br></br>
-  <a href="https://github.com/AntonyJudeShaman">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonyJudeShaman&show_icons=true&locale=en&layout=compact&theme=highcontrast"  />
-  </a>
+  
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/>
