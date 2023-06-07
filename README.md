@@ -35,13 +35,14 @@
   </a>
   <a href="https://github.com/AntonyJudeShaman">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonyJudeShaman&theme=highcontrast" />
-  </a>
+  </a></br></br>
   <a href="https://github.com/AntonyJudeShaman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyJudeShaman&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=highcontrast" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonyJudeShaman&show_icons=true&locale=en&layout=compact&theme=highcontrast"  />
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/>
+
 </div>
 
 
