@@ -1,6 +1,6 @@
 <div theme=highcontrast>
 <h2 align="center">Hi 👋, I'm Antony Jude Shaman</h2>
-<h3 align="center">I am interested in Machine Learning and Full Stack Development</h3>
+<h3 align="center">I am interested in Deep Learning and Full Stack Development</h3>
   
   
   <p align="left">
