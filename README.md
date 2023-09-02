@@ -9,7 +9,7 @@
   </a>
 </p>
   
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
