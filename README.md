@@ -15,7 +15,7 @@
 
 - 👨‍💻 <a href="https://portfolio-nu-six-46.vercel.app/"> View Portfolio</a>
 
-- 📫 How to reach me **starkshaman30@gmail.com**
+- 📫 How to reach me **antonyjudeshaman.24cs@licet.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
