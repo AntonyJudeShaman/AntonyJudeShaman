@@ -34,10 +34,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonyJudeShaman&hide_border=true&card_width=338&theme=highcontrast" />
   </a>
   <a href="https://github.com/AntonyJudeShaman">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonyJudeShaman&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Antony" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonyJudeShaman&theme=highcontrast" />
     <img src="https://github-readme-stats.vercel.app/api?username=AntonyJudeShaman&show_icons=true&locale=en&theme=highcontrast" alt="codingwithmuhib" /></p>
-
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonyJudeShaman&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Antony" /></p>
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonyJudeShaman&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Antony" /> -->
+<!--   <a href="https://github.com/AntonyJudeShaman"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonyJudeShaman&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Antony" /></a> -->
   </a>
 
 </br></br>
