@@ -35,7 +35,7 @@
   </a>
   <a href="https://github.com/AntonyJudeShaman">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonyJudeShaman&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Antony" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonyJudeShaman&theme=highcontrast" />
+<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonyJudeShaman&theme=highcontrast" /> -->
     <img src="https://github-readme-stats.vercel.app/api?username=AntonyJudeShaman&show_icons=true&locale=en&theme=highcontrast" alt="codingwithmuhib" /></p>
 <!--     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonyJudeShaman&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Antony" /> -->
 <!--   <a href="https://github.com/AntonyJudeShaman"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonyJudeShaman&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Antony" /></a> -->
