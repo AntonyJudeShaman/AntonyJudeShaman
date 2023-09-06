@@ -37,7 +37,10 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonyJudeShaman&theme=highcontrast" />
     <img src="https://github-readme-stats.vercel.app/api?username=AntonyJudeShaman&show_icons=true&locale=en&theme=highcontrast" alt="codingwithmuhib" /></p>
 
-  </a></br></br>
+  </a></br>
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonyJudeShaman&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Antony" /></p>
+</br></br>
   
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></br>
