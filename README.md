@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
-- 👨‍💻 <a href="https://portfolio-nu-six-46.vercel.app/"> View Portfolio</a>
+- 👨‍💻 <a href="https://antonyjudeshaman.vercel.app/"> View Portfolio</a>
 
 - 📫 How to reach me **antonyjudeshaman.24cs@licet.ac.in**
 
