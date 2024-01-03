@@ -34,7 +34,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonyJudeShaman&card_width=338&theme=highcontrast" />
   </a>
   <a href="https://github.com/AntonyJudeShaman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonyJudeShaman&show_icons=true&locale=en&layout=donut&theme=great-gatsby" alt="Antony" />
     <img src="https://github-readme-stats.vercel.app/api?username=AntonyJudeShaman&show_icons=true&locale=en&theme=highcontrast" />
  </p>
   </a>
