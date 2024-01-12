@@ -22,15 +22,18 @@
 <a href="https://www.linkedin.com/in/antony-jude-shaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antony jude shaman" height="30" width="40" /></a>
 <a href="https://instagram.com/stark_shaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stark_shaman" height="30" width="40" /></a>
 </p>
-<p align="center">
-  <a href="https://github.com/AntonyJudeShaman">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonyJudeShaman&theme=radical" />
-  </a>
-  <a href="https://github.com/AntonyJudeShaman"><img src="https://antony-streaks.vercel.app?user=AntonyJudeShaman&theme=radical" alt="GitHub Streak" /></a>
-  <a href="https://github.com/AntonyJudeShaman">
-    <img src="https://antony-stats.vercel.app/api?username=AntonyJudeShaman&show_icons=true&locale=en&theme=radical" />
- </p>
-  </a>
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://github.com/AntonyJudeShaman" style="flex: 1; display: flex; justify-content: center; align-items: center;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonyJudeShaman&theme=radical" />
+    </a>
+    <a href="https://github.com/AntonyJudeShaman" style="flex: 0.5; display: flex; justify-content: center; align-items: center;">
+      <img src="https://antony-streaks.vercel.app?user=AntonyJudeShaman&theme=radical" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/AntonyJudeShaman" style="flex: 0.5; display: flex; justify-content: center; align-items: center;">
+      <img src="https://antony-stats.vercel.app/api?username=AntonyJudeShaman&show_icons=true&locale=en&theme=radical" />
+    </a>
+  </p>
+
 
 </br></br>
   
