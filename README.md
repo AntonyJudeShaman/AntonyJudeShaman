@@ -9,7 +9,7 @@
   </a>
 </p>
   
-- 🌱 I’m currently learning **GSAP**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
