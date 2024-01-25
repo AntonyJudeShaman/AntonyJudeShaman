@@ -28,11 +28,8 @@
     </a>
     <a href="https://github.com/AntonyJudeShaman" style="flex: 0.5; display: flex; justify-content: center; align-items: center;">
       <img src="https://antony-streaks.vercel.app?user=AntonyJudeShaman&theme=radical" alt="GitHub Streak" />
-    </a>
-    <a href="https://github.com/AntonyJudeShaman" style="flex: 0.5; display: flex; justify-content: center; align-items: center;">
       <img src="https://antony-stats.vercel.app/api?username=AntonyJudeShaman&show_icons=true&locale=en&theme=radical" />
-    </a>
-  </p>
+    </a></p>
 
 
 </br></br>
