@@ -28,10 +28,9 @@
     </a>
     <a href="https://github.com/AntonyJudeShaman" style="flex: 1; display: flex; justify-content: center; align-items: center;">
       <img src="https://antony-streaks.vercel.app?user=AntonyJudeShaman&theme=radical" alt="GitHub Streak" />
-      <img src="https://antony-stats.vercel.app/api?username=AntonyJudeShaman&show_icons=true&locale=en&theme=radical" />
     </a></p>
 
-![Antony's GitHub stats](https://antony-stats.vercel.app/api?username=AntonyJudeShaman&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyJudeShaman&layout=compact&theme=radical)
+![Antony's GitHub stats](https://antony-stats.vercel.app/api?username=AntonyJudeShaman&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyJudeShaman&layout=donut&theme=radical)
 
 [![Antony's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AntonyJudeShaman&bg_color=0d1117&theme=radical&color=ff0080&line=5fd3f4&point=5fd3f4&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </br></br>
