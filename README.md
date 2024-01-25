@@ -32,7 +32,7 @@
 
 ![Antony's GitHub stats](https://antony-stats.vercel.app/api?username=AntonyJudeShaman&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyJudeShaman&layout=donut&theme=radical)
 
-[![Antony's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AntonyJudeShaman&bg_color=0d1117&theme=radical&color=ff0080&line=5fd3f4&point=5fd3f4&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Antony's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AntonyJudeShaman&bg_color=0d1117&theme=radical&color=ff0080&line=5fd3f4&point=5fd3f4&area=true)](https://github.com/AntonyJudeShaman)
 </br></br>
   
 </p>
