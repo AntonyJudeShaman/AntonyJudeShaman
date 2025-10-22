@@ -9,7 +9,7 @@
   </a>
 </p>
   
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Scalable System and Architectures**
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
