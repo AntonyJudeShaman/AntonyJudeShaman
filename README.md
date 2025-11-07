@@ -1,7 +1,6 @@
 <div theme=radical>
-<h2 align="center">Hi 👋, I'm Antony Jude Shaman, Software Engineer @chargebee</h2>
-<h3 align="center">I am interested in Deep Learning and Full Stack Development</h3>
-  
+<h2 align="center">Hi 👋, I'm <strong>Antony Jude Shaman</strong>, Software Engineer @Chargebee</h2>
+<h3 align="center">Passionate about Deep Learning and Full Stack Development</h3>
   
   <p align="left">
   <a href="https://github.com/AntonyJudeShaman">
@@ -9,9 +8,7 @@
   </a>
 </p>
   
-- 🌱 I’m currently learning **Scalable System and Architectures**
-
-- 👯 I’m looking to collaborate on **full stack projects**
+- 🌱 I’m currently learning **Scalable Systems and Architectures**
 
 - 👨‍💻 <a href="https://antonyjudeshaman.vercel.app/"> View Portfolio</a>
 
@@ -20,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/antony-jude-shaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antony jude shaman" height="30" width="40" /></a>
-<a href="https://instagram.com/stark_shaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stark_shaman" height="30" width="40" /></a>
+<a href="https://instagram.com/antonyy_jude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stark_shaman" height="30" width="40" /></a>
 </p>
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
     <a href="https://github.com/AntonyJudeShaman" style="flex: 1; display: flex; justify-content: center; align-items: center;">
