@@ -1,6 +1,6 @@
 <div theme=radical>
-<h2 align="center">Hi 👋, I'm <strong>Antony Jude Shaman</strong>, Software Engineer @Chargebee</h2>
-<h3 align="center">Passionate about Deep Learning and Full Stack Development</h3>
+<h2 align="center">Hi 👋, I'm Antony Jude Shaman</h2>
+<h3 align="center">Software Engineer @<a href="https://www.chargebee.com"><strong>Chargebee</strong></a> | Deep Learning & Full Stack Development</h3>
   
   <p align="left">
   <a href="https://github.com/AntonyJudeShaman">
